@@ -1,0 +1,231 @@
+:root {
+  
+  --wpt-gf-btn-font-family: inherit;
+  --wpt-gf-btn-font-size: 1em;
+  --wpt-gf-btn-font-weight: bold;
+  --wpt-gf-btn-font-style: normal;
+  --wpt-gf-btn-line-height: normal;
+  --wpt-gf-btn-letter-spacing: normal;
+  --wpt-gf-btn-word-spacing: normal;
+  --wpt-gf-btn-text-align: inherit;
+  --wpt-gf-btn-text-transform: none;
+  --wpt-gf-btn-color: #ffffff;
+  --wpt-gf-btn-color-hover: #ffffff;
+  --wpt-gf-btn-background-color: #0274be;
+  --wpt-gf-btn-background-color-hover: #3a3a3a;
+  --wpt-gf-btn-margin-top: 0;
+  --wpt-gf-btn-margin-right: 16px;
+  --wpt-gf-btn-margin-bottom: 0;
+  --wpt-gf-btn-margin-left: 0;
+  --wpt-gf-btn-padding-top: 10px;
+  --wpt-gf-btn-padding-right: 30px;
+  --wpt-gf-btn-padding-bottom: 10px;
+  --wpt-gf-btn-padding-left: 30px;
+  --wpt-gf-btn-align: left;
+  --wpt-gf-btn-border-width-top: 0px;
+  --wpt-gf-btn-border-width-right: 0px;
+  --wpt-gf-btn-border-width-bottom: 0px;
+  --wpt-gf-btn-border-width-left: 0px;
+  --wpt-gf-btn-border-color: #0274be;
+  --wpt-gf-btn-border-style: solid;
+  --wpt-gf-btn-hover-border-width-top: 0px;
+  --wpt-gf-btn-hover-border-width-right: 0px;
+  --wpt-gf-btn-hover-border-width-bottom: 0px;
+  --wpt-gf-btn-hover-border-width-left: 0px;
+  --wpt-gf-btn-hover-border-color: #3a3a3a;
+  --wpt-gf-btn-hover-border-style: solid;
+  --wpt-gf-btn-border-radius-top-left: 2px;
+  --wpt-gf-btn-border-radius-top-right: 2px;
+  --wpt-gf-btn-border-radius-bottom-right: 2px;
+  --wpt-gf-btn-border-radius-bottom-left: 2px;
+  --wpt-gf-btn-hover-border-radius-top-left: 2px;
+  --wpt-gf-btn-hover-border-radius-top-right: 2px;
+  --wpt-gf-btn-hover-border-radius-bottom-right: 2px;
+  --wpt-gf-btn-hover-border-radius-bottom-left: 2px;
+}
+
+div.gform_confirmation_wrapper {
+  
+}
+div.gform_confirmation_wrapper .gform_confirmation_message {
+  
+}
+
+div.gform_wrapper,
+div.gform_wrapper.gravity-theme {
+  
+}
+div.gform_wrapper div.gform_validation_errors,
+div.gform_wrapper.gravity-theme div.gform_validation_errors {
+  
+}
+div.gform_wrapper div.gform_validation_errors .gform_submission_error,
+div.gform_wrapper.gravity-theme div.gform_validation_errors .gform_submission_error {
+  font-family: var(--wpt-gf-validation-message-font-family);
+  font-size: var(--wpt-gf-validation-message-font-size);
+  font-weight: var(--wpt-gf-validation-message-font-weight);
+  font-style: var(--wpt-gf-validation-message-font-style);
+  line-height: var(--wpt-gf-validation-message-line-height);
+  letter-spacing: var(--wpt-gf-validation-message-letter-spacing);
+  word-spacing: var(--wpt-gf-validation-message-word-spacing);
+  text-align: var(--wpt-gf-validation-message-text-align);
+  text-transform: var(--wpt-gf-validation-message-text-transform);
+  color: var(--wpt-gf-validation-message-color);
+}
+div.gform_wrapper div.gform_heading h2.gform_title,
+div.gform_wrapper.gravity-theme div.gform_heading h2.gform_title {
+  
+}
+div.gform_wrapper div.gform_heading span.gform_description,
+div.gform_wrapper.gravity-theme div.gform_heading span.gform_description {
+  
+}
+div.gform_wrapper div.gf_progressbar_wrapper,
+div.gform_wrapper.gravity-theme div.gf_progressbar_wrapper {
+  
+}
+div.gform_wrapper div.gf_progressbar_wrapper .gf_progressbar_title,
+div.gform_wrapper.gravity-theme div.gf_progressbar_wrapper .gf_progressbar_title {
+  
+}
+div.gform_wrapper div.gf_progressbar_wrapper div.gf_progressbar div.gf_progressbar_percentage,
+div.gform_wrapper.gravity-theme div.gf_progressbar_wrapper div.gf_progressbar div.gf_progressbar_percentage {
+  
+}
+div.gform_wrapper .gform_body .gform_fields .gsection,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gsection {
+  
+}
+div.gform_wrapper .gform_body .gform_fields .gsection .gsection_title,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gsection .gsection_title {
+  
+}
+div.gform_wrapper .gform_body .gform_fields .gsection .gsection_description,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gsection .gsection_description {
+  
+}
+div.gform_wrapper .gform_body .gform_fields .gfield .gfield_label,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield .gfield_label {
+  
+}
+div.gform_wrapper .gform_body .gform_fields .gfield .gfield_label .gfield_required,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield .gfield_label .gfield_required {
+  
+}
+div.gform_wrapper .gform_body .gform_fields .gfield .ginput_complex label,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield .ginput_complex label {
+  
+}
+div.gform_wrapper .gform_body .gform_fields .gfield .ginput_container,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield .ginput_container {
+  
+}
+div.gform_wrapper .gform_body .gform_fields .gfield .gfield_description,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield .gfield_description {
+  
+}
+div.gform_wrapper .gform_body .gform_fields .gfield input[type="text"],
+div.gform_wrapper .gform_body .gform_fields .gfield input[type="email"],
+div.gform_wrapper .gform_body .gform_fields .gfield input[type="tel"],
+div.gform_wrapper .gform_body .gform_fields .gfield input[type="url"],
+div.gform_wrapper .gform_body .gform_fields .gfield input[type="date"],
+div.gform_wrapper .gform_body .gform_fields .gfield textarea,
+div.gform_wrapper .gform_body .gform_fields .gfield select,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield input[type="text"],
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield input[type="email"],
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield input[type="tel"],
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield input[type="url"],
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield input[type="date"],
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield textarea,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield select {
+  
+}
+div.gform_wrapper .gform_body .gform_fields .gfield input[type="text"]::placeholder,
+div.gform_wrapper .gform_body .gform_fields .gfield input[type="email"]::placeholder,
+div.gform_wrapper .gform_body .gform_fields .gfield input[type="tel"]::placeholder,
+div.gform_wrapper .gform_body .gform_fields .gfield input[type="url"]::placeholder,
+div.gform_wrapper .gform_body .gform_fields .gfield input[type="date"]::placeholder,
+div.gform_wrapper .gform_body .gform_fields .gfield textarea::placeholder,
+div.gform_wrapper .gform_body .gform_fields .gfield select::placeholder,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield input[type="text"]::placeholder,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield input[type="email"]::placeholder,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield input[type="tel"]::placeholder,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield input[type="url"]::placeholder,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield input[type="date"]::placeholder,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield textarea::placeholder,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield select::placeholder {
+  font-family: var(--wpt-gf-placeholder-font-family);
+  font-size: var(--wpt-gf-placeholder-font-size);
+  font-weight: var(--wpt-gf-placeholder-font-weight);
+  font-style: var(--wpt-gf-placeholder-font-style);
+  line-height: var(--wpt-gf-placeholder-line-height);
+  letter-spacing: var(--wpt-gf-placeholder-letter-spacing);
+  word-spacing: var(--wpt-gf-placeholder-word-spacing);
+  text-align: var(--wpt-gf-placeholder-text-align);
+  text-transform: var(--wpt-gf-placeholder-text-transform);
+  color: var(--wpt-gf-placeholder-color);
+}
+div.gform_wrapper .gform_body .gform_fields .gfield select,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield select {
+  height: auto;
+}
+div.gform_wrapper .gform_body .gform_fields .gfield.gfield_error,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield.gfield_error {
+  
+}
+div.gform_wrapper .gform_body .gform_fields .gfield.gfield_error .gfield_description.validation_message,
+div.gform_wrapper.gravity-theme .gform_body .gform_fields .gfield.gfield_error .gfield_description.validation_message {
+  
+}
+div.gform_wrapper .gform_footer,
+div.gform_wrapper .gform_page_footer,
+div.gform_wrapper.gravity-theme .gform_footer,
+div.gform_wrapper.gravity-theme .gform_page_footer {
+  text-align: var(--wpt-gf-btn-align);
+  
+}
+div.gform_wrapper .gform_footer input[type="submit"],
+div.gform_wrapper .gform_footer input.button,
+div.gform_wrapper .gform_page_footer input[type="submit"],
+div.gform_wrapper .gform_page_footer input.button,
+div.gform_wrapper.gravity-theme .gform_footer input[type="submit"],
+div.gform_wrapper.gravity-theme .gform_footer input.button,
+div.gform_wrapper.gravity-theme .gform_page_footer input[type="submit"],
+div.gform_wrapper.gravity-theme .gform_page_footer input.button {
+  font-family: var(--wpt-gf-btn-font-family);
+  font-size: var(--wpt-gf-btn-font-size);
+  font-weight: var(--wpt-gf-btn-font-weight);
+  font-style: var(--wpt-gf-btn-font-style);
+  line-height: var(--wpt-gf-btn-line-height);
+  letter-spacing: var(--wpt-gf-btn-letter-spacing);
+  word-spacing: var(--wpt-gf-btn-word-spacing);
+  text-align: var(--wpt-gf-btn-text-align);
+  text-transform: var(--wpt-gf-btn-text-transform);
+  color: var(--wpt-gf-btn-color);
+  background-color: var(--wpt-gf-btn-background-color);
+  margin: var(--wpt-gf-btn-margin-top) var(--wpt-gf-btn-margin-right) var(--wpt-gf-btn-margin-bottom) var(--wpt-gf-btn-margin-left);
+  padding: var(--wpt-gf-btn-padding-top) var(--wpt-gf-btn-padding-right) var(--wpt-gf-btn-padding-bottom) var(--wpt-gf-btn-padding-left);
+  border-width: var(--wpt-gf-btn-border-width-top) var(--wpt-gf-btn-border-width-right) var(--wpt-gf-btn-border-width-bottom) var(--wpt-gf-btn-border-width-left);
+  border-style: var(--wpt-gf-btn-border-style);
+  border-color: var(--wpt-gf-btn-border-color);
+  -webkit-border-radius: var(--wpt-gf-btn-border-radius-top-left) var(--wpt-gf-btn-border-radius-top-right) var(--wpt-gf-btn-border-radius-bottom-right) var(--wpt-gf-btn-border-radius-bottom-left);
+  -moz-border-radius: var(--wpt-gf-btn-border-radius-top-left) var(--wpt-gf-btn-border-radius-top-right) var(--wpt-gf-btn-border-radius-bottom-right) var(--wpt-gf-btn-border-radius-bottom-left);
+  border-radius: var(--wpt-gf-btn-border-radius-top-left) var(--wpt-gf-btn-border-radius-top-right) var(--wpt-gf-btn-border-radius-bottom-right) var(--wpt-gf-btn-border-radius-bottom-left);
+}
+div.gform_wrapper .gform_footer input[type="submit"]:hover,
+div.gform_wrapper .gform_footer input.button:hover,
+div.gform_wrapper .gform_page_footer input[type="submit"]:hover,
+div.gform_wrapper .gform_page_footer input.button:hover,
+div.gform_wrapper.gravity-theme .gform_footer input[type="submit"]:hover,
+div.gform_wrapper.gravity-theme .gform_footer input.button:hover,
+div.gform_wrapper.gravity-theme .gform_page_footer input[type="submit"]:hover,
+div.gform_wrapper.gravity-theme .gform_page_footer input.button:hover {
+  background-color: var(--wpt-gf-btn-background-color-hover);
+  color: var(--wpt-gf-btn-color-hover);
+  border-width: var(--wpt-gf-btn-hover-border-width-top) var(--wpt-gf-btn-hover-border-width-right) var(--wpt-gf-btn-hover-border-width-bottom) var(--wpt-gf-btn-hover-border-width-left);
+  border-style: var(--wpt-gf-btn-hover-border-style);
+  border-color: var(--wpt-gf-btn-hover-border-color);
+  -webkit-border-radius: var(--wpt-gf-btn-hover-border-radius-top-left) var(--wpt-gf-btn-hover-border-radius-top-right) var(--wpt-gf-btn-hover-border-radius-bottom-right) var(--wpt-gf-btn-hover-border-radius-bottom-left);
+  -moz-border-radius: var(--wpt-gf-btn-hover-border-radius-top-left) var(--wpt-gf-btn-hover-border-radius-top-right) var(--wpt-gf-btn-hover-border-radius-bottom-right) var(--wpt-gf-btn-hover-border-radius-bottom-left);
+  border-radius: var(--wpt-gf-btn-hover-border-radius-top-left) var(--wpt-gf-btn-hover-border-radius-top-right) var(--wpt-gf-btn-hover-border-radius-bottom-right) var(--wpt-gf-btn-hover-border-radius-bottom-left);
+}
